@@ -8,5 +8,7 @@ public class Main {
         Hi hi = new Hi();
 
         hi.printf();
+
+        System.out.println("Add new Print");
     }
 }
